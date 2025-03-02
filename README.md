@@ -157,11 +157,6 @@ npm run dev
 - Laravel: 10.x
 - AdminLTE: 3.x
 
-## ผู้พัฒนา
-
-- ชื่อบริษัท/ผู้พัฒนา
-- เว็บไซต์: https://example.com
-- อีเมล: contact@example.com
 
 ## License
 
